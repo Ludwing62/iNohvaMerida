@@ -2,6 +2,63 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6231fd1d-7bd7-491a-9587-89e8ae994b22" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/img/inohvamerida.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/controller/connection.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fail.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/index.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/css/bootstrap-grid.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/css/bootstrap-grid.css.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/css/bootstrap-grid.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/css/bootstrap-grid.min.css.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/css/bootstrap-reboot.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/css/bootstrap-reboot.css.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/css/bootstrap-reboot.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/css/bootstrap-reboot.min.css.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/css/bootstrap.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/css/bootstrap.css.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/css/bootstrap.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/css/bootstrap.min.css.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/css/style.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/css/style_menu.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/css/users_table.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/js/bootstrap.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/js/bootstrap.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/js/jquery.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/js/login.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/js/table_filter.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/modals/admin_employee.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/modals/employee_sale.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/modals/user_email.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/modals/users_delete.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/modals/users_info.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/modals/users_modify.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/modals/users_registry.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/navbar/user_nav.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/php/admin_employee_registry.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/php/admin_user_registry.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/php/user_delete.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/php/user_email.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/php/user_modify.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/php/user_registry.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/stylesheet/footer.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/stylesheet/head.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/stylesheet/users_menu.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/view/administrator/view/admin_employee.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/view/administrator/view/admin_products.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/view/administrator/view/admin_user.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/view/administrator/view/admin_welcome.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/view/departments/bedroom.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/view/departments/decor.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/view/departments/dinning_room.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/view/departments/kitchen.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/view/departments/living_room.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/view/departments/offers.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/view/departments/other_products.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/view/employee/view/employee_make_sale.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/view/employee/view/employee_welcome.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/view/login/login.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/view/user/view/user_welcome.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/view/users_login.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -12,7 +69,18 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf />
+    <leaf>
+      <file leaf-file-name="connection.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/controller/connection.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -95,7 +163,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1514654658168</updated>
-      <workItem from="1514654660534" duration="627000" />
+      <workItem from="1514654660534" duration="993000" />
     </task>
     <task id="LOCAL-00001" summary="Hola">
       <created>1514655100837</created>
@@ -111,18 +179,26 @@
       <option name="project" value="LOCAL" />
       <updated>1514655130989</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Mudando Proyecto a iNohvaMeridaGit">
+      <created>1514655334070</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1514655334070</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="710000" />
+    <option name="totallyTimeSpent" value="1076000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24304539" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24304539" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.329653" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.329653" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -166,7 +242,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Hola" />
-    <option name="LAST_COMMIT_MESSAGE" value="Hola" />
+    <MESSAGE value="Mudando Proyecto a iNohvaMeridaGit" />
+    <option name="LAST_COMMIT_MESSAGE" value="Mudando Proyecto a iNohvaMeridaGit" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -215,7 +292,6 @@
     <entry file="file://$PROJECT_DIR$/lib/js/table_filter" />
     <entry file="file://$PROJECT_DIR$/view/administrator/view/admin_employee.php" />
     <entry file="file://$PROJECT_DIR$/lib/js/table_filter.js" />
-    <entry file="file://$PROJECT_DIR$/controller/connection.php" />
     <entry file="file://$PROJECT_DIR$/view/administrator/view/admin_user.php" />
     <entry file="file://$PROJECT_DIR$/lib/modals/users_registry.php" />
     <entry file="file://$PROJECT_DIR$/lib/php/user_delete.php" />
@@ -226,5 +302,13 @@
     <entry file="file://$PROJECT_DIR$/index.php" />
     <entry file="file://$PROJECT_DIR$/view/users_login.php" />
     <entry file="file://$PROJECT_DIR$/view/login/login.php" />
+    <entry file="file://$PROJECT_DIR$/controller/connection.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
   </component>
 </project>
